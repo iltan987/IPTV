@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPTV", "IPTV\IPTV.csproj", "{E7FB4BBA-D716-4F64-B256-5F79CE85035B}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebServer", "WebServer\WebServer.njsproj", "{A67A99DC-676E-4820-BA54-140358C68BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FB4BBA-D716-4F64-B256-5F79CE85035B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FB4BBA-D716-4F64-B256-5F79CE85035B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FB4BBA-D716-4F64-B256-5F79CE85035B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FB4BBA-D716-4F64-B256-5F79CE85035B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67A99DC-676E-4820-BA54-140358C68BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67A99DC-676E-4820-BA54-140358C68BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67A99DC-676E-4820-BA54-140358C68BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67A99DC-676E-4820-BA54-140358C68BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D285C6-417C-4EBF-827C-F2941FD49C4E}
+	EndGlobalSection
+EndGlobal
